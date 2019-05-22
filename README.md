@@ -1,7 +1,5 @@
 # machine-learning-projects
 
-  On my way of learning machine learning *pun intended* and theses are projects along the way.
-
 ## PyTorch Based MNIST Demo with Linear Model
 
   10/02/2018
